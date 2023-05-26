@@ -13,7 +13,13 @@
       alt="adampithewan" height="30" width="40" /></a>
 </p>
 
-- Get fun: Follow this playlist 🎵 about Japanese Pop Music <a href="https://open.spotify.com/playlist/6TbbYqzInE36lVer7d6QTj?si=c86bd3b0a2a54e50" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.freepik.com/vector-gratis/paisaje-urbano-noche-lluviosa-luces-neon_107791-17783.jpg?w=1800&t=st=1685069309~exp=1685069909~hmac=d0ab2bd6f785bf566c8999ad402282ccbc7b600f596a5bb05128e6539ab3eae8">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.freepik.com/vector-gratis/ilustracion-hitos-horizonte-ciudad_23-2148810177.jpg?w=1800&t=st=1685069172~exp=1685069772~hmac=a11d16a09a99c6b621e119685d0e8f92b098b9b8a876b11c53863dfc3c7c1479">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
+- Get fun: Follow this playlist 🎵 about City Pop and keep working <a href="https://open.spotify.com/playlist/7KFoK4LJ23EncELJwYmTDG?si=ce549f748e7d4162" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
 </br>
 </br>
