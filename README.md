@@ -42,11 +42,11 @@ Explore my research, technical articles, and literary production at:
 ---
 
 ### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SJacoboZavaleta&layout=compact&theme=vision-friendly-dark" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SJacoboZavaleta&show_icons=true&theme=vision-friendly-dark" height="180px" />
+</div>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SJacoboZavaleta&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SJacoboZavaleta&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
-</p>
 
 ![Snake animation](https://github.com/SJacoboZavaleta/SJacoboZavaleta/blob/output/github-contribution-grid-snake.svg)
 ---
